@@ -1,0 +1,12 @@
+﻿  CIOCPServer.cpp
+C:\Users\purel\source\repos\NEOPLE_TEST_03\CIOCPServer.cpp(320,84): warning C4267: '인수': 'size_t'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\purel\source\repos\NEOPLE_TEST_03\CIOCPServer.cpp(331,36): warning C4267: '초기화 중': 'size_t'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPacket.cpp
+  CPacketQueue.cpp
+  Main.cpp
+C:\Users\purel\source\repos\NEOPLE_TEST_03\CIOCPServer.cpp(347,36): warning C4267: '초기화 중': 'size_t'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 444 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  NEOPLE_TEST_03.vcxproj -> C:\Users\purel\source\repos\NEOPLE_TEST_03\Release\NEOPLE_TEST_03_Server.exe
